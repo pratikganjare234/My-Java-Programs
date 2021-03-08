@@ -1,3 +1,5 @@
+package oops;
+
 public class NestedLoopTwoD 
 {
 	public static void main(String args[])
